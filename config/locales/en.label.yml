@@ -110,8 +110,8 @@ en:
       :meta_desc: Andalucia Ruby User Group
       :custom_recurrence: last tuesday of each month at 7:30 p.m.
     frankfurt:
-      :city: City
-      :name: Name
-      :title: Title
-      :subtitle: SubTitle
-      :meta_desc: MetaDesc
+      :city: Frankfurt am Main
+      :name: Ruby Frankfurt
+      :title: Ruby Frankfurt
+      :subtitle: Ruby User Group Frankfurt
+      :meta_desc: Ruby / Rails User Group Frankfurt
